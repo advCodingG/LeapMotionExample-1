@@ -4,7 +4,8 @@ Code and commenting was done in collaboration between Glenna Xie (https://github
 
 ######This LeapMotion Example has the following functionality:
 - draws a 3D grid so you can see your hand in 3D space
-![waitingformovement.png](/Users/jintemp/Desktop/waitingformovement.png)
+
+![waitingformovement.png](./waitingformovement.png)
 
 - draws lines when gestures are detected so that users can more easily interpret how the leap is translating hand movement
 - the color of the drawn line changes based on whether a finger gesture or hand gesture is detected
@@ -12,7 +13,8 @@ Code and commenting was done in collaboration between Glenna Xie (https://github
 
 
 Keytap (finger gesture)
-![keytap.png](/Users/jintemp/Desktop/keytap.png)
+![keytap.png](./keytap.png)
+
 
 Swipe right (hand gesture)
-![swiperight.png](/Users/jintemp/Desktop/swiperight.png)
+![swiperight.png](./swiperight.png)
